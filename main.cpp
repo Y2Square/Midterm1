@@ -23,7 +23,7 @@ int main() {
 
     cout<<arr.min300();
 
-    cout<<"\n I just changed the file lmao";
+    cout<<"\nI just changed the file lmao";
 
     //Circle min300 = arr.min300(0);
     //cout<<"Minimum object with area over 300:\n"<< min300.ID << " | radius:" << min300.radius << " - area:" << min300.area << '\n';
